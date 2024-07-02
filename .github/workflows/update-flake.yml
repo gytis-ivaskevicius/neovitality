@@ -34,6 +34,6 @@ jobs:
         ##    commit-message: "[automation] update flake dependencies"
         ##    title: "[automation] update flake dependencies"
         ##    branch: "automation/update-flake-dependencies"
-      - uses: stefanzweifel/git-auto-commit-action@v4.14.1
+      - uses: stefanzweifel/git-auto-commit-action@v4.16.0
         with:
           commit_message: "[automation] update flake dependencies"
